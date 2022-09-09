@@ -24,3 +24,4 @@ select count(type) from AddressBook;
 update AddressBook set type='Family' where fname='Namrata';
 
 select * from AddressBook;
+
